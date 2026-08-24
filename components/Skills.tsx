@@ -17,7 +17,7 @@ export default function Skills() {
           02 — skills
         </span>
         <h2 className="mt-3 font-display text-3xl font-semibold tracking-tight text-ink dark:text-paper sm:text-4xl">
-          What's in the stack.
+          What is in the stack.
         </h2>
 
         <div className="mt-8 space-y-5 font-mono text-sm">
