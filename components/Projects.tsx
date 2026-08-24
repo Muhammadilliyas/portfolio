@@ -86,10 +86,10 @@ export default function Projects() {
           03 — projects
         </span>
         <h2 className="mt-3 font-display text-3xl font-semibold tracking-tight text-ink dark:text-paper sm:text-4xl">
-          Things I've shipped.
+          Things I have shipped.
         </h2>
         <p className="mt-3 max-w-xl text-[15px] text-ink/65 dark:text-paper/65">
-          A mix of client work and side projects. Status reflects whether I'm
+          A mix of client work and side projects. Status reflects whether I am
           actively maintaining it.
         </p>
       </motion.div>
